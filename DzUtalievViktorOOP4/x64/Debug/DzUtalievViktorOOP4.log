@@ -1,0 +1,25 @@
+﻿  DzUtalievViktorOOP4.cpp
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\String.h(36,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\String.h(52,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\String.h(86,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\String.h(101,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\String.h(103,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\String.h(105,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\Reservoir.h(36,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\Reservoir.h(44,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\Reservoir.h(75,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\Reservoir.h(87,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\Reservoir.h(131,10): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\Reservoir.h(136,10): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\Reservoir.h(141,10): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\Reservoir.h(146,10): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\Reservoir.h(151,10): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\Reservoir.h(169,18): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\DzUtalievViktorOOP4.cpp(90,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\DzUtalievViktorOOP4.cpp(91,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\DzUtalievViktorOOP4.cpp(92,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\DzUtalievViktorOOP4.cpp(173,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\DzUtalievViktorOOP4.cpp(174,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\DzUtalievViktorOOP4.cpp(175,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\s287\source\repos\DzUtalievViktorOOP4\DzUtalievViktorOOP4\Menu.h(102): warning C4715: 'Menu::menu': not all control paths return a value
+  DzUtalievViktorOOP4.vcxproj -> C:\Users\s287\source\repos\DzUtalievViktorOOP4\x64\Debug\DzUtalievViktorOOP4.exe
